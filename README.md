@@ -1,1 +1,2 @@
-# indian_stock_historical_data
+# EOD data of NSE
+Last updated 25-08-2023
